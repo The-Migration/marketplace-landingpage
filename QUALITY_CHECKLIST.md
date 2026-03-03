@@ -15,7 +15,7 @@
 
 ## 3. SEO & Social
 - [x] Descriptive Title Tag.
-- [x] Meta Description with keywords ($129 flat fee, VET college, Australia).
+- [x] Meta Description with keywords (simple flat fee, VET college, Australia).
 - [x] Open Graph tags for Facebook/LinkedIn preview.
 - [x] Canonical-style URLs in OG tags.
 
